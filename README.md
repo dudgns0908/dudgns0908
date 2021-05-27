@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋.
+#### I'm AI Research Engineer.
 <p>
   <a href="https://www.linkedin.com/in/dudgns0908/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
